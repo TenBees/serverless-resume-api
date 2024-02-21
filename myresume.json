@@ -1,118 +1,73 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
-    "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
+    "name": "Thembelani Given Hambile",
+    "email": "Thambile7@gmail.com",
+    "phone": "(+27) 828629941",
     "summary": "A summary of John Doe…",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
     "profiles": [{
-      "network": "Twitter",
-      "username": "john",
-      "url": "https://twitter.com/john"
+      "network": "LinkedIn",
+      "username": "Thembelani Hambile",
+      "url": "https://www.linkedin.com/in/thembelani-hambile-1798461b2/"
     }]
   },
-  "work": [{
-    "name": "Company",
-    "position": "President",
-    "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Started the company"
-    ]
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
   "education": [{
-    "institution": "University",
-    "url": "https://institution.com/",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "score": "4.0",
+    "institution": "Krugersdorp High School",
+    "url": "https://krugersdorphigh.co.za/",
+    "area": "",
+    "studyType": "Matric",
+    "startDate": "2011",
+    "endDate": "2016",
     "courses": [
-      "DB1101 - Basic SQL"
+      "Mathematics",
+      "Physics",
+      "Accounting",
+      "CAT"
     ]
   }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "JavaScript"
+  "Higher education": [{
+    "institution": "Academic institute of excellence",
+    "url": "https://www.aie.ac/",
+    "area": "IT systems supoort-Cloud Specialization",
+    "studyType": "NQF5",
+    "startDate": "2023",
+    "endDate": "2024",
+    "courses": [
+      "CompTIA A+",
+      "CompTIA N+",
+      "AZ-Fundementals",
+      "AZ-Administrator",
+      "windows server 2016",
+      "installation and manage windows 10/11"
     ]
   }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
+  "certificate1": [{
+    "name": "CompTIA A+",
+    "date": "01-07-2023",
+    "issuer": "CompTIA",
+    "url": "https://www.credly.com/badges/55e4f6f8-7cc9-49fa-893a-e40badcf5558/public_url"
   }],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
+  "certificate2": [{
+    "name": "CompTIA N+",
+    "date": "12-07-2023",
+    "issuer": "CompTIA",
+    "url": "https://www.credly.com/badges/c5132086-d7ab-4d02-b15b-5fe9c868c255/public_url"
   }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
+  "certificate3": [{
+    "name": "Microsoft Azure Fundementals",
+    "date": "11-10-2023",
+    "issuer": "Microsoft",
+    "url": "https://learn.microsoft.com/api/credentials/share/en-us/ThembelaniHambile-6942/207F9AD8C6D78145?sharingId=F63FA2B4E8738B16"
   }],
-  "projects": [{
-    "name": "Project",
-    "description": "Description…",
-    "highlights": [
-      "Won award at AIHacks 2016"
-    ],
-    "keywords": [
-      "HTML"
-    ],
-    "startDate": "2019-01-01",
-    "endDate": "2021-01-01",
-    "url": "https://project.com/",
-    "roles": [
-      "Team Lead"
-    ],
-    "entity": "Entity",
-    "type": "application"
+  "certificate4": [{
+    "name": "Microsoft Azure Administrator Associate",
+    "date": "23-11-2023",
+    "issuer": "Microsoft",
+    "url": "https://learn.microsoft.com/api/credentials/share/en-us/ThembelaniHambile-6942/1247D89109039EC7?sharingId=F63FA2B4E8738B16"
+  }],
+  "certificate5": [{
+    "name": "Microsoft Azure Solutions Architect Expert",
+    "date": "05-02-2024",
+    "issuer": "Microsoft",
+    "url": "https://learn.microsoft.com/api/credentials/share/en-us/ThembelaniHambile-6942/50AC1C7C082610E2?sharingId=F63FA2B4E8738B16"
   }]
 }

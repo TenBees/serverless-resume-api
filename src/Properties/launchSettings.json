@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "serverless_resume_api": {
-      "commandName": "Project",
-      "commandLineArgs": "--port 7172",
-      "launchBrowser": false
-    }
-  }
-}
